@@ -1,3 +1,6 @@
+# MR 2023
+#
+
 import smtplib
 con=smtplib.SMTP('smtp.gmail.com',587)
 type(con)
