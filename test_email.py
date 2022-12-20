@@ -1,5 +1,6 @@
 # MR 2023
-#
+# Simple mail client 
+
 
 import smtplib
 con=smtplib.SMTP('smtp.gmail.com',587)
